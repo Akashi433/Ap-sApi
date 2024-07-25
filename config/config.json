@@ -1,6 +1,6 @@
 {
 	"srv": {
-		"host": "http://localhost",
+		"host": "https://pingu-beta.vercel.app/",
 		"post": 2055,
 		"root": "*",
 		"req_limit": 100,
